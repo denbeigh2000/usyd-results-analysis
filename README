@@ -1,0 +1,7 @@
+This will parse the given file (default: results.csv) and load it into a SQLite database (default: results.sqlite) into a table "results"
+
+Formatting is expected to be the same as in the provided sample_results.csv file.
+
+Some interesting sample queries are provided in the queries.sql file. Pull requests with more interesting queries are welcome.
+
+Have fun!
